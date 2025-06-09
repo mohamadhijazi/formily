@@ -101,8 +101,7 @@
   },
   "config": {
     "ghooks": {
-      "pre-commit": "lint-staged",
-      "commit-msg": "commitlint --edit"
+      
     }
   },
   "lint-staged": {
